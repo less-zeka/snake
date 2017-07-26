@@ -86,6 +86,19 @@
     <Content Include="Scripts\MainMenu.js" />
     <Content Include="Scripts\Preloader.js" />
     <Content Include="Scripts\phaser.min.js" />
+    <Content Include="assets\preloadbar.png" />
+    <Content Include="assets\preloadbck.png" />
+    <Content Include="assets\spriteSet.png" />
+    <Content Include="assets\font\font.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\BasicGame.txt" />
+    <None Include="assets\spriteSet.jsona" />
+    <None Include="assets\font\font.fnt" />
+    <None Include="assets\sounds\eat.m4a" />
+    <None Include="assets\sounds\eat.mp3" />
+    <None Include="assets\sounds\eat.ogg" />
+    <None Include="assets\sounds\eat.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
