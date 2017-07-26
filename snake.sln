@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake", "snake\snake.csproj", "{BEFC8E4E-11E4-47F4-859A-A43FDF42B02C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFC8E4E-11E4-47F4-859A-A43FDF42B02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFC8E4E-11E4-47F4-859A-A43FDF42B02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFC8E4E-11E4-47F4-859A-A43FDF42B02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFC8E4E-11E4-47F4-859A-A43FDF42B02C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
